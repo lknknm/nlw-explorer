@@ -1,6 +1,6 @@
 ### NLW eSports
 
-![preview](./.github/preview.png)
+![preview](./.github/nlw-explorer-github-preview.jpg)
 
 Simple website constructed during the <a href="https://lp.rocketseat.com.br/nlw">Rocketseat's "Next Level Week #8"</a> in September 2022. <a href="https://lknknm.github.io/nlw-explorer/"> Click here to see it!</a>
 
